@@ -28,7 +28,7 @@ This project was built using Python and common data science libraries, including
 The results show that ensemble models like Random Forest and XGBoost perform better than the baseline model. They are more effective at detecting emission rises, especially after tuning and threshold adjustments.
 
 # How to Run
-•	Open Customer_Churn.ipynb in Jupyter Notebook
+•	Open Final Project Code(DS).ipynb in Jupyter Notebook
 •	Ensure all required libraries are installed
 •	Update dataset path if necessary
 •	Run all cells step by step
